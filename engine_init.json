@@ -1,0 +1,24 @@
+{
+  "name": "Stake Engine Instance",
+  "symbol": "Init",
+  "image": "https://raw.githubusercontent.com/ZephyrEnterprise/metadata/main/Idle_Init.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ZephyrEnterprise/metadata/main/Idle_Init.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7yvXhc5yw5bux8fyGNG5ScYv4J1XHb4Rmb1LXyY4Yr2S",
+        "share": 0
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": {}
+}
